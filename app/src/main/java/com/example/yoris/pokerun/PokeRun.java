@@ -22,7 +22,6 @@ public class PokeRun extends AppCompatActivity implements SensorEventListener{
 
     @Override
     public void onSensorChanged(SensorEvent event) {
-        event.
     }
 
     @Override

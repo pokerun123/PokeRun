@@ -30,6 +30,7 @@ public class PokeRun extends AppCompatActivity implements SensorEventListener{
         display.getSize(size);
         width = size.x;
         height = size.y;
+        //Modifica coi commit
         //PokemonNemico p = new PokemonNemico();
         //new Thread(new PokemonNemico()).start();
     }
